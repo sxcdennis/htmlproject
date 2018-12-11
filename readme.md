@@ -1,7 +1,2 @@
 # README
-This project was created to retest my html/css/js skills.
-
-
-
-
-
+This was some of my previous work
